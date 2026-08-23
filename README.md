@@ -1,5 +1,4 @@
 # Chris-He
-resume
 # Hi there 👋 I'm Chris He/ Jinyu He 🖐️
 ## A CS student
 ## AI / Deep Learning  | Computer Vision
