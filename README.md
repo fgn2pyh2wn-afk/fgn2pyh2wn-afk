@@ -20,7 +20,7 @@
 - Reproduced classic deep learning models and completed MNIST-VAE experimental projects
 
 ### Projects
-- **  Generative Model Experiment**
+- **Generative Model Experiment**
   brain tumor predict model, including reconstruction, random generation and latent space interpolation.
 
 ### Contact
